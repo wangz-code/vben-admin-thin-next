@@ -5,7 +5,7 @@
 </p>
 <h2 align="center">Vben Admin Thin Next</h2>
 
-<h2 align="center">站在巨人的肩膀上</h2>
+<h2 align="center">站在巨人的肩膀上 本仓库为主仓库的fork版本, 在主仓库上微调保持同步更新</h2>
 
 
 **中文** | [English](./README.en-US.md)
