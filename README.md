@@ -5,6 +5,9 @@
 </p>
 <h2 align="center">Vben Admin Thin Next</h2>
 
+<h2 align="center">站在巨人的肩膀上</h2>
+
+
 **中文** | [English](./README.en-US.md)
 
 - [介绍](#介绍)
