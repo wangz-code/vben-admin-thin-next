@@ -193,8 +193,8 @@
       width: 400px;
       background: @white;
       border: 10px solid rgba(255, 255, 255, 0.5);
-      border-width: 8px;
-      border-radius: 4px;
+      border-width: 0;
+      border-radius: 6px;
       background-clip: padding-box;
       .respond-to(xlarge, { margin: 0 120px 0 50px});
 
@@ -218,8 +218,6 @@
         width: 100%;
         height: 100%;
         padding: 60px 0 40px 0;
-        border: 1px solid #999;
-        border-radius: 2px;
 
         header {
           display: flex;
