@@ -3,6 +3,7 @@
   "version": "2.0.0-rc.15",
   "scripts": {
     "bootstrap": "yarn install",
+    "dev": "cross-env  vite --mode=development",
     "serve": "cross-env  vite --mode=development",
     "build": "cross-env  vite build --mode=production && esno ./build/script/postBuild.ts",
     "build:site": "cross-env SITE=true npm run build ",
